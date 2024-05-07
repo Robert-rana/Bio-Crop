@@ -1,0 +1,197 @@
+@media(max-width:992px){
+    .carousel-caption h5{
+        margin-top: -50%;
+    }
+    .real-container{
+        width: 90%;
+    }
+    .farm-container{
+        width: 90%;
+    }
+    .gallery-container{
+        width: 90%;
+    }
+    .gallery-text{
+        padding: 25px 30px;
+    }
+    .test-container{
+        width: 90%;
+    }
+    .test-sub h5{
+        left: 40%;
+    }
+    .specify-container{
+        width: 95%;
+    }
+    .specify-box h3{
+        font-size: 30px;
+        line-height: 38px;
+        margin-bottom: 10px;
+    }
+    .card{
+        padding: 10px;
+    }
+    .card a i{
+        margin-bottom: 8px;
+    }
+    .card p{
+        padding: 0;
+    }
+    .footer-container{
+        width: 90%;
+    }
+
+    /* --- about page --- */
+
+    .about-container{
+        width: 90%;
+    }
+    .about-box h3{
+        margin-top: 7%;
+    }
+    .best-container{
+        width: 95%;
+    }
+    .best-text h5{
+        padding: 0;
+    }
+    .best-text h3 {
+        font-size: 40px;
+        margin-bottom: 10px;
+    }
+    .best-text p{
+        line-height: 24px;
+    }
+    .experience-container {
+        width: 92%;
+    } 
+    .team-container{
+        width: 90%;
+    }  
+    
+    
+    /* --- service page --- */
+
+    .service-container{
+        width: 95%;
+    }
+    .content{
+        margin: 26px;
+    }
+    .crop-container{
+        width: 95%;
+    }
+
+    /* --- blog page --- */
+
+    .blog-container{
+        width: 95%;
+    }
+
+    /* --- contact page --- */
+
+    .call-container{
+        width: 90%;
+    }
+    .send-container{
+        width: 90%;
+    }
+    .map-container{
+        width: 90%;
+    }
+
+
+
+
+}
+
+
+@media(max-width:768px){
+    .carousel-caption h5{
+        margin-top: -40%;
+    }
+
+    #test{
+        height: 100%;
+    }
+    .test-box {
+        margin-top: 20%;
+        margin-bottom: 20px;
+    }
+    .specify-box h3{
+        margin-top: 20px;
+    }
+
+
+    /* --- about page --- */
+
+    #about{
+        height: 280px;
+    }
+    .best-text h5{
+        margin-top: 20px;
+    }
+
+}
+
+
+
+
+
+@media(max-width:480px){
+    .carousel-caption{
+        width: 350px;
+    }
+    .carousel-inner img {
+        height: 300px;
+    }
+    .carousel-caption h5{
+        font-size: 26px;
+    }
+    .carousel-caption p{
+        margin-bottom: 0;
+    }
+    .test-box{
+        margin-top: 10%;
+    }
+    .bottom-container{
+        width: 95%;
+    }
+
+    /* --- contact page --- */
+
+    .call-icon i{
+        float: left;
+    }
+}
+
+
+
+
+@media(max-width:360px){
+    .carousel-caption{
+        width: 300px;
+    }
+    .carousel-inner img {
+        height: 350px;
+    }
+
+    .farm-box h3{
+        font-size: 30px;
+    }
+    .farm-container{
+        padding: 50px 0;
+    }
+    .gallery-text {
+        padding: 20px 20px;
+    }
+    .gallery-text p{
+        margin-bottom: 0;
+    }
+
+    /* --- about page --- */
+
+    .garden-box h3{
+        font-size: 45px;
+    }
+}
